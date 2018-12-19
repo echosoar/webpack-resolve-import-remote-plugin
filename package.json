@@ -1,0 +1,21 @@
+{
+  "name": "webpack-resolve-import-remote-plugin",
+  "version": "1.0.0",
+  "description": "import dolmx from 'github.com/echosoar/dolmx'",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/echosoar/webpack-resolve-import-remote-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "import"
+  ],
+  "author": "echosoar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echosoar/webpack-resolve-import-remote-plugin/issues"
+  },
+  "homepage": "https://github.com/echosoar/webpack-resolve-import-remote-plugin#readme"
+}
